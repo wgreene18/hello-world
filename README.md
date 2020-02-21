@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi!
+
+I am updating my gitHub repo from Nero in South Kensington. 
